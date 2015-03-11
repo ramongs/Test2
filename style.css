@@ -1,0 +1,28 @@
+body{
+  margin:0px;
+  padding:0px;
+}
+
+.address{
+  float:left;
+  color:white;
+  font-size:10px;
+  margin-right:20px;
+}
+
+#header{
+  height:80px;
+  background-color:#393E44;
+}
+.wrapper{
+  width:710px;
+  margin: auto;
+}
+#social{
+  float:right;
+}
+.icons{
+  margin-left:5px;
+  margin-top:7px;
+  margin-bottom:10px;
+}
